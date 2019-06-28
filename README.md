@@ -1,7 +1,7 @@
 ## Adafruit Music Maker FeatherWing PCB
 
-<a href="http://www.adafruit.com/products/3357"><img src="assets/3357.jpg?raw=true" width="400px"><br/>
-<a href="http://www.adafruit.com/products/3436"><img src="assets/3436.jpg?raw=true" width="400px"><br/>
+<a href="http://www.adafruit.com/products/3357"><img src="assets/3357.jpg?raw=true" width="350px"><br/>
+<a href="http://www.adafruit.com/products/3436"><img src="assets/3436.jpg?raw=true" width="350px"><br/>
 Click a picture to purchase from the Adafruit shop</a>
 
 PCB files for the Adafruit Music Maker FeatherWings. Format is EagleCAD schematic and board layout
